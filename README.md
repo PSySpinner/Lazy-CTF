@@ -10,6 +10,8 @@ If you're a Capture The Flag (CTF) enthusiast, you know that setting up for each
 
 - **Auto-Nmap Scans**: No more manual Nmap commands. The script automatically initiates your first Nmap scan on thr target IP address and organizes the results in 'scans/nmap.'
 
+- **Sreps.md File**: The script will also create a steps.md file in the Steps directory, this is great if you use Obsidian and want to immediately start writing down the steps that you take on the CTF chalange
+
 ## Usage
 
 1. Clone this repository to your local machine
