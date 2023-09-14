@@ -15,7 +15,7 @@ If you're a Capture The Flag (CTF) enthusiast, you know that setting up for each
 ## Usage
 
 1. Clone this repository to your local machine
-2. Run chmod +x lazy_ctf_starter.sh
+2. Run: chmod +x lazy_ctf_starter.sh 
 3. Dive into challenges faster, focus on solving, and leave the setup to us!
 
 ## How to Use
