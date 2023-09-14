@@ -24,7 +24,7 @@ If you're a Capture The Flag (CTF) enthusiast, you know that setting up for each
 ./lazy_ctf_starter.sh
 ```
 
-![Lazy_Start](https://github.com/PSySpinner/Lazy-CTF/assets/117143735/acc0df29-6f95-4b28-807f-65d7ed4b17a4)
 
 
-![Lazy_tree](https://github.com/PSySpinner/Lazy-CTF/assets/117143735/def0bd3c-d409-4a2d-b163-3dd6888e5996)
+
+
